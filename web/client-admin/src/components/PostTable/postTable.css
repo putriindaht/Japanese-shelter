@@ -1,0 +1,8 @@
+.post-table{
+    width: 100%;
+}
+
+.action-post{
+    display: flex;
+    gap: 10px;
+}

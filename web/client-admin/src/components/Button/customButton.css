@@ -1,0 +1,12 @@
+.custom-button {
+  background-color: var(--orange);
+  width: 4em;
+  border-radius: 5px;
+  padding: 5px;
+  margin-bottom: 1.5em;
+  color: var(--blue);
+  font-weight: bold;
+  text-align: center;
+  border: solid;
+  border-color: var(--blue);
+}

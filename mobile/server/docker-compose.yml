@@ -1,0 +1,25 @@
+services:
+  app-service:
+    build: ./services/app
+    container_name: app-service
+    ports:
+      - "4002:4002"
+    environment:
+      - DATABASE_URL=${SUPABASE_URL}
+      - JWT_SECRET=${JWT_SECRET}
+  user-service:
+    build: ./services/users
+    container_name: user-service
+    ports:
+      - "4001:4001"
+    environment:
+      - MONGO_DB_URL=${MONGO_DB_URL}
+  orchestrator:
+    build: ./orchestrator
+    container_name: orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      - REDIS_URL=${REDIS_URL}
+      - APP_SERVER_URL=http://app-service:4002
+      - USER_SERVER_URL=http://user-service:4001

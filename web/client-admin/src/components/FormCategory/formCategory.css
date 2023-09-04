@@ -1,0 +1,11 @@
+.form-add-cat {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.form-add-cat-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

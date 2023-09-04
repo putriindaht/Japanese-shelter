@@ -1,0 +1,28 @@
+[
+    {
+        "username": "user1",
+        "email": "user1@mail.com",
+        "password": "12345",
+        "role": "author",
+        "phoneNumber": "0812345",
+        "address": "Jakarta"
+      },
+      {
+        "username": "user2",
+        "email": "user2@mail.com",
+        "password": "12345",
+        "role": "author",
+        "phoneNumber": "0812345",
+        "address": "Bandung"
+      },
+      {
+        "username": "user3",
+        "email": "user3@mail.com",
+        "password": "12345",
+        "role": "author",
+        "phoneNumber": "0812345",
+        "address": "Jakarta"
+      }
+    
+]
+    

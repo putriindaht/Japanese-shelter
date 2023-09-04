@@ -1,0 +1,33 @@
+.form-add {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.form-add-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form-add-action-button {
+  display: flex;
+}
+
+.tags-container {
+  display: flex;
+  gap: 0.5em;
+  align-items: center;
+}
+
+.delete-button {
+  font-size: x-large;
+  color: var(--blue);
+}
+
+.add-tag-btn{
+  width: 100px;
+  background-color: var(--blue);
+  border-radius: 5px;
+  color: var(--white)
+}

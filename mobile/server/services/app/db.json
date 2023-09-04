@@ -1,0 +1,168 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@mail.com",
+      "password": "123",
+      "role": "author",
+      "phoneNumber": "0812345",
+      "address": "Jakarta"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@mail.com",
+      "password": "123",
+      "role": "author",
+      "phoneNumber": "0812345",
+      "address": "Bandung"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "email": "user3@mail.com",
+      "password": "123",
+      "role": "author",
+      "phoneNumber": "0812345",
+      "address": "Jakarta"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "4 Film Jepang yang akan hadir di Netflix bulan Juli",
+      "slug": "4-Film-Jepang-yang-akan-hadir-di-Netflix-bulan-Juli",
+      "content": "FILM JEPANG NETFLIX DI MUSIM PANAS - Musim panas di Jepang sudah akan segera tiba, banyak orang akan berada di dalam ruangan ber-AC untuk berkumpul keluarga ataupun mencari hiburan. Salah satunya adalah tontonan Netflix yang dapat menjadi hiburan untuk kalian di musim panas ini. Berikut adalah beberapa judul film Jepang ataupun Anime yang akan menghibur kalian di bulan Juli ini! (Perlu diperhatikan bahwa beberapa film hanya hadir di wilayah tertentu). 1. My Happy Marriage Anime 'My Happy Marriage' akan menawarkan kalian perspektif baru tentang perjodohan dan pasti akan dapat melelehkan hati Anda. Anime Ini dengan indah mengeksplorasi gagasan bahwa cinta dapat berkembang dalam keadaan yang paling tidak terduga. Sinopsis:Diadaptasi dari manga populer dengan judul yang sama, 'My Happy Marriage' bercerita tentang Chiwa Takanashi, seorang wanita pekerja keras yang setuju untuk dijodohkan dengan seorang pria bernama Hokuto Mamiya untuk melunasi hutang ayahnya. Meskipun pernikahan mereka lahir karena kenyamanan, Chiwa dan Hokuto mulai memahami dan menghargai satu sama lain, perlahan mereka jatuh cinta dalam prosesnya.",
+      "imgUrl": "https://thoughtsandwork.com/wp-content/uploads/2023/06/my-happy-marriage.webp",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Jepang Ciptakan Robot Tangan Pacar Untuk Para Jomblo Kesepian",
+      "slug": "Jepang-Ciptakan-Robot-Tangan-Pacar-Untuk-Para-Jomblo-Kesepian",
+      "content": "Beberapa hal dalam kehidupan memberikan perpaduan khusus antara ketenangan dan kehangatan yang memberi energi, seperti berjalan-jalan bergandengan tangan dengan kekasih. Namun, seperti yang ditunjukkan oleh sekelompok peneliti teknik (Koshiro Shiraki, Toru Notsumata, Moeka Miki, dan Takeru Mushika) dari Universitas Gifu Jepang, 'Bagi sebagian orang, mencari pacar itu sangat sulit.' Jadi, keempat peneliti tersebut membuat metode bagi orang-orang untuk 'pengalaman lebih mudah menggenggam tangan pacar daripada menemukan pacar,' dan hasilnya adalah robot tangan pacar seperti yang ditampilkan dalam video ini, yang disebut Osampo Kanojo (pacar berjalan), atau nama bahasa Inggrisnya My Girlfriend in Walk.",
+      "imgUrl": "https://media.japanesestation.com/images/750x422/2020/11/04/89312-tangan-pasangan.jpg",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "Etika Berendam di Onsen Jepang",
+      "slug": "Etika-Berendam-di-Onsen-Jepang",
+      "content": "Tradisi mandi di Jepang adalah sebuah tradisi kuno yang kemudian diangkat menjadi seni dan memiliki sifat komunal yang mengikat komunitas di masyarakat Jepang. Di Jepang ada dua jenis pemandian, sento atau pemandian lokal yang memakai air panas dari keran, dan onsen yang menggunakan mata air panas dari aktivitas vulkanik dan dipenuhi mineral yang bermanfaat. Kini, sento mungkin sudah tidak sepopuler dulu, tetapi masih sering didatangi oleh orang-orang tua di Jepang.",
+      "imgUrl": "https://media.japanesestation.com/images/652x367/2020/12/30/99616-onsen.jpg",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "id": 4,
+      "title": "Film Animasi Terbaik Di Jepang Tahun Ini Jatuh Kepada The First Slam Dunk",
+      "slug": "Film-Animasi-Terbaik-Di-Jepang-Tahun-Ini-Jatuh-Kepada-The-First-Slam-Dunk",
+      "content": "Japan Academy Film Prize Association menumumkan para pemenang penghargaan dalam acaranya yang ke-46 yang diadakan pada 10 Maret 2023, di Grand Prince Hotel New Takanawa di Tokyo . The first Slam Dunk, film anime layar lebar dari manga bola basket legendaris karya Takehiko Inoue, Slam Dunk, memenangkan Animation of the Year mengalahkan para nominasi lain di antaranya Suzume, INU-OH, One Piece Film Red, dan Lonely Casthe in the Mirror.",
+      "imgUrl": "https://media.japanesestation.com/images/652x367/2023/03/12/54065-the-first-slam-dunk-toei-animation.jpg",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358",
+      "categoryId": 4,
+      "authorId": 2
+    },
+    {
+      "title": "kukuruyuk",
+      "imgUrl": "gu",
+      "content": "gjgjffhcg",
+      "categoryId": "4",
+      "slug": "kukuruyuk",
+      "createdAt": 1691614607746,
+      "updatedAt": 1691614607746,
+      "userId": 1,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "entertainment",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    },
+    {
+      "id": 2,
+      "name": "lifestyle",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    },
+    {
+      "id": 3,
+      "name": "culture",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    },
+    {
+      "id": 4,
+      "name": "anime Manga",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    },
+    {
+      "id": 5,
+      "name": "news",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    },
+    {
+      "name": "Politics",
+      "createdAt": 1691608704107,
+      "updatedAt": 1691608704107,
+      "id": 6
+    },
+    {
+      "name": "ups",
+      "createdAt": 1691610166562,
+      "updatedAt": 1691610166562,
+      "id": 7
+    },
+    {
+      "name": "fg",
+      "createdAt": 1691627658729,
+      "updatedAt": 1691627658729,
+      "id": 8
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "anime",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "name": "why Japan",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    },
+    {
+      "id": 3,
+      "postId": 3,
+      "name": "tradition",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    },
+    {
+      "id": 4,
+      "postId": 4,
+      "name": "anime",
+      "createdAt": "1691410932358",
+      "updatedAt": "1691410932358"
+    }
+  ]
+}

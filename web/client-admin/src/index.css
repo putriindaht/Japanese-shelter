@@ -1,0 +1,47 @@
+:root {
+  --blue: rgb(38, 55, 62);
+  --orange: rgb(247, 233, 135);
+  --white: rgb(240, 240, 240);
+}
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid;
+}
+
+select {
+  width: 25em;
+  height: 30px;
+  border-radius: 5px;
+  padding: 0px 10px;
+}
+
+input {
+  width: 25em;
+  height: 30px;
+  border-radius: 5px;
+  padding: 0px 10px;
+}
+
+textarea {
+  width: 25em;
+  border-radius: 10px;
+  border: solid;
+  padding: 5px 10px;
+}
+
+.start-section {
+  margin: 5em 15em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

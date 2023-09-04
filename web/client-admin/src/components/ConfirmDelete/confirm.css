@@ -1,0 +1,15 @@
+.confirm-container{
+    display: flex;
+    gap: 10px;
+}
+
+.yes-confirm{
+    background-color: var(--blue);
+    color: var(--white);
+    border-radius: 5px;
+}
+
+.no-confirm{
+    background-color: var(--orange);
+    border-radius: 5px;
+}

@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap");
+:root {
+  --blue: rgb(38, 55, 62);
+  --yellow: rgb(249, 217, 73);
+  --white: rgb(240, 240, 240);
+  --orange: rgb(248, 111, 3);
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--white);
+}
+.main {
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-right: 200px;
+  display: flex;
+}
+
+.head-content {
+  color: var(--blue);
+  text-transform: capitalize;
+}
+#tags {
+  background-color: bisque;
+}
+
+.container-card {
+  display: flex;
+  max-width: 100%;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 30px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: large;
+  cursor: pointer;
+}
+.img-card-post {
+  width: 300px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.card-post {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  width: 300px;
+  height: 350px;
+}
+
+.footer {
+  background-color: var(--blue);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  margin-top: 50px;
+  height: 20vh;
+  color: var(--white);
+  width: 100vw;
+  font-size: small;
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+
+.container-footer {
+  margin-left: 150px;
+  margin-right: 200px;
+  display: flex;
+  max-height: 100%;
+  gap: 30px;
+}
+
+.description {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.place-carousel {
+  margin-top: -4px;
+}
+
+.container-tags {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-weight: bold;
+  font-size: large;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.content-container {
+  margin-left: 150px;
+  margin-right: 200px;
+  margin-top: 10px;
+}
+
+.img-detail {
+  width: 500px;
+  height: 300px;
+}
+
+.tag-name {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: var(--blue);
+}
